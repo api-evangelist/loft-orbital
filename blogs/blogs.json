@@ -1,0 +1,14 @@
+{
+  "repo": "loft-orbital",
+  "feeds": [
+    {
+      "source": "https://loftorbital.com/about/",
+      "feed_url": "https://loftorbital.com/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-25T15:00:33Z"
+}
