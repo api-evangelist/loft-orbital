@@ -45,6 +45,13 @@ tags:
 - Company
 - Frontier Tech
 - Space
+- Satellite
+- Aerospace
+- Mission Control
+tags_raw:
+- Company
+- Frontier Tech
+- Space
 - Satellites
 - Aerospace
 - Mission Control
@@ -59,6 +66,10 @@ apis:
   baseURL: https://api.cockpit.loftorbital.com
   x-access: gated
   tags:
+  - Space
+  - Satellite
+  - Mission Control
+  tags_raw:
   - Space
   - Satellites
   - Mission Control
